@@ -1,0 +1,14 @@
+{
+  "development":"./configs/default.json",
+
+  "DatabaseListener": "./db/DatabaseListener.js",
+  "SchedulesSchema":"./db/schemas/SchedulesSchema.js",
+
+  "MqttServer":"./handlers/MqttServer.js",
+  "SocketHandler":"./handlers/SocketHandler.js",
+
+  "Schedules":"./models/Schedules.js",
+
+  "Calendary":"./utils/Calendary.js",
+  "Scheduler":"./utils/Scheduler.js"
+}

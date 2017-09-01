@@ -1,0 +1,15 @@
+{
+  "tuesday": {
+    "02:50:00": [
+      {
+        "deviceId": 124,
+        "clientId": "id client mqtt",
+        "data": {
+          "content": 25,
+          "timestamp": "new date",
+          "categoryId": "car"
+        }
+      }
+    ]
+  }
+}

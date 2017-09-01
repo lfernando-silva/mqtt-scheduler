@@ -1,0 +1,22 @@
+{
+  "name": "iot-scheduler",
+  "version": "0.0.1",
+  "description": "A scheduling API for Internet Of Things using mongoDB and MQTT",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": {
+    "name": "luiz",
+    "email": "lfernando-silva@hotmail.com"
+  },
+  "dependencies": {
+    "bluebird": "^3.5.0",
+    "easy-dependency-loader": "^1.1.1",
+    "later": "^1.2.0",
+    "lodash": "^4.17.4",
+    "moment-timezone": "^0.5.13",
+    "mongoose": "^4.11.6",
+    "mosca": "^2.5.2"
+  }
+}
